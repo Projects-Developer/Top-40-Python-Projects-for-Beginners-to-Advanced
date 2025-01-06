@@ -4,7 +4,7 @@ Top 40 Python Projects for Beginners to Advanced with Code, Documents And Video 
 ## Youtube link: https://youtu.be/mjcoSEINwkY?si=WP1n3ogS0YtITV2R
 
 ## Top 40 Python Projects for Beginners to Advanced
-1. Malware Detection Using Deep Learning
+1. Malware Detection Using Deep Learning                        :
 2. Stock Price Prediction Using Machine Learning
 3. Automatic Face Attendance System Project
 4. Crime Prediction Using Machine Learning
