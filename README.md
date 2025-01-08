@@ -1,6 +1,8 @@
 # Top-40-Python-Projects-for-Beginners-to-Advanced
 Top 40 Python Projects for Beginners to Advanced with Code, Documents And Video Tutorials
 
+![40 Pthon projects](https://github.com/user-attachments/assets/4369a0b5-7f74-447a-8907-db8ce88d40f4)
+
 ## Youtube link: https://youtu.be/mjcoSEINwkY?si=WP1n3ogS0YtITV2R
 
 ## Top 40 Python Projects for Beginners to Advanced
