@@ -7,6 +7,7 @@ Top 40 Python Projects for Beginners to Advanced with Code, Documents And Video 
 
 ## Top 40 Python Projects for Beginners to Advanced
 1. Malware Detection Using Deep Learning                        :https://youtu.be/f-JRYJWVKKE?si=GuebwSt9chYyjZzT
+
 2. Stock Price Prediction Using Machine Learning                :https://youtu.be/nh4BOMuaF_I?si=gT0s5Vl2UyOAuze4
 3. Automatic Face Attendance System Project                     :https://youtu.be/tLhFaAurhGw?si=gdsdp8JjlgsAFeos
 4. Crime Prediction Using Machine Learning                      :https://youtu.be/4rAoiBh2MH0?si=g6aMlqXYhVDuoKJe
@@ -45,6 +46,41 @@ Top 40 Python Projects for Beginners to Advanced with Code, Documents And Video 
 37. Fitness Tracker Using Machine Learning                      :https://youtu.be/LbjWU1gbjCU?si=F84AWwEB1rrW4gEw
 38. UPI Fraud Detection Using Machine Learning                  :https://youtu.be/uzVdxlG1gIY?si=H0aMvVD_n9FFnVTk 
 39. Image Recognition System Deep Learning                      :https://youtu.be/kDelozpkvjU?si=7zlS_I1LphZF0usT
-40. Fake Logo Detection System                                  :
+40. Fake review detection using Machine learning Project        :https://youtu.be/pGN0xFWfVNQ?si=pQWfolyTQGrrXc7v
+
+### Project include: 
+
+1. Synopsis
+
+2. PPT
+
+3. Research Paper
+
+
+4. Code
+
+5. Explanation video
+
+6. Documents
+
+7. Report
+
+
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
+
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.finalproject.in/
+
+### Contact me for any kind of help on projects.
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+
+Mail/Message me for Projects Help 🙏🏻
+    
     
 
